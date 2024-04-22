@@ -1,5 +1,6 @@
 # CapstoneProject2
 Capstone project ini akan menganalisa Exploratory Data Analysis Transjakarta
+
 TransJakarta adalah sebuah sistem transportasi Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Selatan dengan jalur lintasan terpanjang di dunia (208 km). Sistem BRT ini didesain berdasarkan sistem TransMilenio di Bogota, Kolombia. Terhitung sejak 1 Februari 2004, TransJakarta resmi beroperasi. TransJakarta diputuskan berbentuk Badan Pengelola (BP) TransJakarta berdasarkan Keputusan Gubernur No. 110/2003 dimana: • TransJakarta dikelola secara non-struktural • Menggunakan dana transfer • Anggaran yang fleksibel • Pendapatan yang dapat disetor • Bertanggungjawab langsung ke Gubernur. Pada 4 Mei 2006, Gubernur DKI Sutiyoso mengubah BP TransJakarta menjadi Badan Layanan Umum (BLU) TransJakarta yang adalah Unit Pelaksana Teknis (UPT) di bawah Dinas Perhubungan (Dishub) Provinsi DKI Jakarta. Hal ini diatur dalam Peraturan Gubernur (Pergub) DKI No. 48 Tahun 2006. 
 
 Pada 27 Maret 2014, TransJakarta berubah status menjadi bentuk BUMD (Badan Usaha Milik Daerah) dan resmi berganti nama menjadi PT. Transportasi Jakarta. Rencana pembukaan layanan koridor-koridor baru terus berjalan, inovasi-inovasi pun diluncurkan demi kenyamanan para pelanggan.<br>
